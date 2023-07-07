@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Rhanyel Rodrigues (rhany) and I'm web developer. Im graduated in Computer Science, and currently working with ReactJS in a AbInbev project</h2>
-
 ###
 
 <div align="center">
